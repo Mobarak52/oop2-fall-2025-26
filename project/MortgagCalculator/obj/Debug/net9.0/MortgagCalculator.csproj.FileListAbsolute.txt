@@ -1,0 +1,15 @@
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.AssemblyInfoInputs.cache
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.AssemblyInfo.cs
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.sourcelink.json
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\bin\Debug\net9.0\MortgagCalculator.exe
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\bin\Debug\net9.0\MortgagCalculator.deps.json
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\bin\Debug\net9.0\MortgagCalculator.runtimeconfig.json
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\bin\Debug\net9.0\MortgagCalculator.dll
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\bin\Debug\net9.0\MortgagCalculator.pdb
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.dll
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\refint\MortgagCalculator.dll
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.pdb
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\MortgagCalculator.genruntimeconfig.cache
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\project\MortgagCalculator\obj\Debug\net9.0\ref\MortgagCalculator.dll
