@@ -1,0 +1,15 @@
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.exe
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.deps.json
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.runtimeconfig.json
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.dll
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\bin\Debug\net9.0\HouseExercise.pdb
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfoInputs.cache
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.AssemblyInfo.cs
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.sourcelink.json
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.dll
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\refint\HouseExercise.dll
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.pdb
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\HouseExercise.genruntimeconfig.cache
+C:\Users\Mobarak\Downloads\OOP2\oop2-fall-2025-26\Lab\HouseExercise\obj\Debug\net9.0\ref\HouseExercise.dll
